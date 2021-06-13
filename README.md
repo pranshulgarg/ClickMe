@@ -1,0 +1,2 @@
+# ClickMe
+A small game
